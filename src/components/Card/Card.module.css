@@ -1,0 +1,11 @@
+.conteiner{
+    border-radius: 2rem;
+    border: 0.15rem solid #1c04a759;
+    box-shadow: 0px 0px 5px 7px rgba(0,0,0,0.75);
+    width: 25rem;
+    position:relative;
+    left: 50%;
+    transform: translateX(-50%);
+    height:33rem;
+    
+}
